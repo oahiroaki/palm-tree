@@ -1,0 +1,16 @@
+{
+  "name": "palm-tree",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/oahiroaki/palm-tree.git",
+  "author": "Hiroaki Ohtake <hiroaki.ohtake@excite-software.net>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.4.2",
+    "vuex": "^2.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^2.4.2",
+    "webpack": "^3.3.0"
+  }
+}
